@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-Project Euler Solutions in Python
+Project Euler Solutions in Scala
